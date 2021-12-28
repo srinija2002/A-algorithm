@@ -1,1 +1,1 @@
-# A-algorithm implementation
+# A*-algorithm implementation
